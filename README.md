@@ -33,6 +33,13 @@
 ### 🔁 Review
 - 틀렸거나 다시 풀어볼 가치가 있는 문제들을 따로 관리
 - 약점 보완 및 복습 중심의 문제 모음
+<details open>
+
+<summary>📌 핵심 복습 문제</summary>
+
+
+</details>
+
 
 ## 🧩 사용 언어
 - Java
