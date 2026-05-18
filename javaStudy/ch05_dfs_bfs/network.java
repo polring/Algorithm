@@ -1,4 +1,4 @@
-package java.ch05_dfs_bfs;
+package javaStudy.ch05_dfs_bfs;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
